@@ -1,1 +1,1 @@
-# IE-507-LAB
+# IE-507-LAB, •	Modelling and Computation lab
